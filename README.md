@@ -22,10 +22,11 @@ Ngoài kỹ thuật thuần túy, mình cũng thích tư duy **sản phẩm**: h
 
 ## 🧠 Tech stack
 - **Backend:** Golang, gRPC/Protobuf, REST
-- **Data & Queue:** MongoDB, Redis, Elasticsearch, RabbitMQ
+- **Data & Queue:** MongoDB, Redis, Elasticsearch, RabbitMQ, Nats
 - **Infra:** Docker (Swarm/Compose), Linux
-- **Frontend (khi cần):** Angular, Vue
+- **Frontend:** Angular, Vue
 
----
-## 🤝 Kết nối
-- Email: thteam@gmail.com
+## ⚡ Realtime / WebSocket
+- **Centrifugo (WebSocket realtime):** thiết kế luồng publish/subscribe cho chat, presence, notification, realtime dashboard
+- Tích hợp backend **Golang (gRPC/REST)** → Centrifugo (JWT auth, channel permission, private channels)
+- Tối ưu vận hành: scale theo node, cấu hình Redis/NATS làm broker, monitoring & log để debug realtime
