@@ -1,20 +1,31 @@
-# Phạm Văn Thái (thteam47) 👋
+<!-- Profile README for thteam47 -->
 
-💻 Backend/Full-stack dev | Yêu Go, TypeScript, system stuff  
-📍 Hải Dương | ✉️ (thêm email/LinkedIn nếu muốn)
+<h1 align="center">Phạm Văn Thái (thteam47)</h1>
+<p align="center">
+  Backend/Fullstack Developer • Golang Microservices • System & Product Builder
+</p>
 
-## 🚀 Dự án nổi bật
-- **server_management** – Project in VCS (Go)  
-- **Angular_Server_Management_FE** – FE cho server management (TypeScript/Angular)  
-- **Java / Code_C / HTML_CSS** – Tổng hợp bài tập & nền tảng KMA
+<p align="center">
+  <a href="https://github.com/thteam47">GitHub</a> •
+  <a href="mailto:thteam47@gmail.com">Email</a>
+</p>
 
-## 🧰 Tech stack
-- Go, TypeScript, Java, C
-- (thêm: Docker, Linux, DB, … nếu bạn dùng)
+---
 
-## 📌 Mình đang làm gì?
-- (1–3 gạch đầu dòng: đang học/đang build/đang tối ưu gì)
+## 👋 Giới thiệu
+Mình là developer tập trung vào **backend & hệ thống**, thích xây những thứ chạy ổn định, mở rộng được và dễ vận hành. 
+Mình có kinh nghiệm làm việc với **Golang microservices (gRPC/Protobuf)**, thiết kế API, tối ưu hiệu năng, và triển khai hệ thống bằng **Docker**.
 
-## 🤝 Liên hệ
-- X/Twitter: @thteam47
-- (thêm LinkedIn/Facebook/Website)
+Ngoài kỹ thuật thuần túy, mình cũng thích tư duy **sản phẩm**: hiểu bài toán, chọn giải pháp vừa đủ, làm ra tính năng “dùng được thật” thay vì chỉ “đúng về mặt lý thuyết”.
+
+---
+
+## 🧠 Tech stack
+- **Backend:** Golang, gRPC/Protobuf, REST
+- **Data & Queue:** MongoDB, Redis, Elasticsearch, RabbitMQ
+- **Infra:** Docker (Swarm/Compose), Linux
+- **Frontend (khi cần):** Angular, Vue
+
+---
+## 🤝 Kết nối
+- Email: thteam@gmail.com
