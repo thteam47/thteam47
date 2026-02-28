@@ -1,16 +1,20 @@
-## Hi there 👋
+# Phạm Văn Thái (thteam47) 👋
 
-<!--
-**thteam47/thteam47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend/Full-stack dev | Yêu Go, TypeScript, system stuff  
+📍 Hải Dương | ✉️ (thêm email/LinkedIn nếu muốn)
 
-Here are some ideas to get you started:
+## 🚀 Dự án nổi bật
+- **server_management** – Project in VCS (Go)  
+- **Angular_Server_Management_FE** – FE cho server management (TypeScript/Angular)  
+- **Java / Code_C / HTML_CSS** – Tổng hợp bài tập & nền tảng KMA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech stack
+- Go, TypeScript, Java, C
+- (thêm: Docker, Linux, DB, … nếu bạn dùng)
+
+## 📌 Mình đang làm gì?
+- (1–3 gạch đầu dòng: đang học/đang build/đang tối ưu gì)
+
+## 🤝 Liên hệ
+- X/Twitter: @thteam47
+- (thêm LinkedIn/Facebook/Website)
